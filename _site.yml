@@ -1,6 +1,5 @@
 name: "adoption-framework"
 navbar:
-  title: "Adoption Framework"
   left:
     - text: "Home"
       href: index.html
@@ -14,8 +13,11 @@ navbar:
       href: integration.html
     - text: "RStudio Team"
       href: rstudio-pro.html
+  right:
+    - icon: fa-github
+      href: https://github.com/nwstephens/adoption-framework
 output:
   html_document:
     include:
       after_body: footer.html
-    css: air.css
+    css: modest.css
