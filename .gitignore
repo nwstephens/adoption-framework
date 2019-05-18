@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+staging
+rsconnect
+_site

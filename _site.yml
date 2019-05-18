@@ -14,9 +14,8 @@ navbar:
       href: integration.html
     - text: "RStudio Team"
       href: rstudio-pro.html
-output_dir: staging
 output:
   html_document:
-    css: air.css
     include:
       after_body: footer.html
+    css: air.css
