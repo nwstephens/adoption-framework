@@ -1,0 +1,53 @@
+---
+title: "An adoption framework for using R in production"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+---
+
+<br>
+
+### Getting started
+
+How are you using R today?
+
+<br>
+
+***
+
+<br>
+
+### Legitimacy
+
+Make R an an analytic standard. Demonstrate the value of R.
+
+<br>
+
+### Competencies
+
+Understand and manage R tooling. Promote best practices.
+
+<br>
+
+### Integration
+
+Use R in production. Reproduce and deploy R environments.
+
+<br>
+
+***
+
+<br>
+
+### RStudio professional products
+
+RStudio Team
+
+RStudio Server Pro
+
+RStudio Connect
+
+RStudio Package Manager
+
+***

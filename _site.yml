@@ -1,0 +1,22 @@
+name: "adoption-framework"
+navbar:
+  title: "Adoption Framework"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Getting Started"
+      href: getting-started.html
+    - text: "Legitimacy"
+      href: legitimacy.html
+    - text: "Competencies"
+      href: competencies.html
+    - text: "Integration"
+      href: integration.html
+    - text: "RStudio Team"
+      href: rstudio-pro.html
+output_dir: staging
+output:
+  html_document:
+    css: air.css
+    include:
+      after_body: footer.html
