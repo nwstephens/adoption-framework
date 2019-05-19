@@ -7,7 +7,7 @@ output:
 
 <br>
 
-### Frequently asked questions for using R in production.
+### Frequently asked questions
 
 Just getting started? Here are some frequently asked questions for using R in production.
 
