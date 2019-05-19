@@ -11,6 +11,8 @@ output:
 
 Just getting started? Here are some frequently asked questions for using R in production.
 
+<br>
+
 ### How do organizations use R in production today?
 
 Organizations use R to build analytic workflows, reproduce their work, deploy data products, influence decision making. R is a free and open source programming language that widely adopted across industries. It has a vibrant community that enables individuals to create new technologies and solutions.
