@@ -1,7 +1,0 @@
----
-title: RStudio Team
-output: 
-  html_document:
-    includes:
-      in_header: "favicon.html"
----

@@ -1,7 +1,71 @@
 ---
-title: Competencies
 output: 
   html_document:
     includes:
       in_header: "favicon.html"
 ---
+
+<br>
+
+### Learn how to use R
+
+Learn how to use R on a server and get the support you need.
+
+* [Getting started]()
+* [Where to get more information]()
+* [How to stay up to date]()
+
+### Build data products
+
+Use open source R packages to build web applications, documents, dashboards, reports, and API's.
+
+* [Shiny web applications]()
+* [R Markdown documents]()
+* [Plumber API's]()
+
+<br>
+
+### Reproduce analytic environments
+
+Reproducible is at the core of data science.
+
+* [Using R for validated work]()
+* [Why programming matters]()
+
+<br>
+
+### Join the growing community
+
+Get help from the people who know the packages the best -- the creators and users of R software.
+
+* [Community forum]()
+* [How to stay up to date on the latest news]()
+
+<br>
+
+### Get the help your need [Pro]
+
+RStudio is dedicated in helping you achieve success. 
+
+* [Full service partners]()
+* [Training partners]()
+* [RStudio support]()
+
+<br>
+
+### Install and configure professional products [Pro] 
+
+RStudio professional products are powerful tools that you use to accomplish your goals. Access our online materials to learn more.
+
+* [Documentation]()
+* [How to videos]()
+* [IT admin training]()
+* [Best practices]()
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>

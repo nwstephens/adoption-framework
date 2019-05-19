@@ -1,7 +1,60 @@
 ---
-title: Getting Started
 output: 
   html_document:
     includes:
       in_header: "favicon.html"
 ---
+
+<br>
+
+### Frequently asked questions for using R in production.
+
+Just getting started? Here are some frequently asked questions for using R in production.
+
+### How do organizations use R in production today?
+
+Organizations use R to build analytic workflows, reproduce their work, deploy data products, influence decision making. R is a free and open source programming language that widely adopted across industries. It has a vibrant community that enables individuals to create new technologies and solutions.
+
+<br>
+<center>
+<a href="https://solutions.rstudio.com/production/overview/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### What is the role of open source?
+
+More and more organizations rely on open source. The R programming language is a designed for statistical computing and graphics. Access thousands of packages from the community. Open source software forms the foundation of what we do and who we are.
+
+<br>
+<center>
+<a href="https://www.r-project.org/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### What does a crawl / walk / run strategy look like?
+
+Most organizations start small and then build big. You want to know where you are headed. RStudio has more expertise in R than any other organization. Our tools will help you grow. We are dedicated to your success.
+
+<br>
+<center>
+<a href="https://solutions.rstudio.com/production/architectures/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### Who is involved involved in achieving success?
+
+R is new for most organizations. You will do best if you have IT resources that are familiar with R and R packages. You will also need to work with data scientists who can help.
+
+<br>
+<center>
+<a href="https://rviews.rstudio.com/2016/11/16/make-r-a-legitimate-part-of-your-organization/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>

@@ -11,8 +11,6 @@ navbar:
       href: competencies.html
     - text: "Integration"
       href: integration.html
-    - text: "RStudio Team"
-      href: rstudio-pro.html
   right:
     - icon: fa-github
       href: https://github.com/nwstephens/adoption-framework

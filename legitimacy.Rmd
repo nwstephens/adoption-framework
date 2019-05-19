@@ -1,7 +1,41 @@
 ---
-title: Legitimacy
 output: 
   html_document:
     includes:
       in_header: "favicon.html"
 ---
+
+<br>
+
+### Legitimize R in your organization
+
+Get approval and allocate resources to R.
+
+* [Bringing R through the front door]()
+* [Analytic administration for R]()
+
+<br>
+
+### Join the R community
+
+Take advantage of open source software and the latest R packages.
+
+* [Using the R programming language on your servers]()
+* [Accessing R packages]()
+
+<br>
+
+### Adopt professional tooling [Pro]
+
+Using RStudio professional products help you legitimize R in your organization and allocate the resources needed to build a sustainable analytic platform. 
+
+* [Requirements for using RStudio professional products]()
+* [How to comply with security requirements]()
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/contact-sales.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>

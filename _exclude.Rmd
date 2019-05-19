@@ -1,0 +1,66 @@
+---
+title: "<br> Adopting R in Production"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+---
+
+<br>
+
+Adopting R in production is about making R an analytic standard, learning how to administer the language and tools, then integrating R into your complex systems. This simple framework will help you get started as you reproduce and deploy data products and analytic environments in production. 
+
+<br>
+
+### Just getting started?
+
+Frequently asked questions for using R in production.
+
+* How do data and analytics influence business objectives?
+* How do organizations use R in production today?
+* What is the role of open source?
+* What does a crawl / walk / run strategy look like?
+* Who is involved involved in achieving success?
+
+<br><center><img src="img/learn-more.png" alt="Learn More" style="width:250px;"></center><br>
+
+### Demonstrating the value of R
+
+Make R an an analytic standard in your organization.
+
+* Legitimize R
+* Allocate resources
+* Using community packages
+* Adopt professional tooling [pro]
+
+<br><center><img src="img/learn-more.png" alt="Learn More" style="width:250px;"></center><br>
+
+### Promoting best practices
+
+Learn how to administer R and R packages.
+
+* Administer open source R and R packages
+* Build data products
+* Reproduce analytic environments
+* Join the community
+* Get the support services that match your needs [pro]
+* Access our professional resources [pro]
+
+<br><center><img src="img/learn-more.png" alt="Learn More" style="width:250px;"></center><br>
+
+### Using R in production
+
+Reproduce and deploy R environments with your complex systems
+
+* Integration R with the latest analytic tools: Spark, Tensorflow, Databases.
+* Use R with Python
+* Build workflows and architectures that depend on R [Pro]
+* Scale R with containerization [Pro]
+* Use R within your CI/DC pipelines [Pro]
+* Connect to your data sources [Pro]
+
+<br><center><img src="img/learn-more.png" alt="Learn More" style="width:250px;"></center><br>
+
+### RStudio professional products
+
+RStudio Team is a bundle of RStudio’s popular professional software for statistical data-analysis, package management, and sharing data products. RStudio Team includes RStudio Server Pro, RStudio Package Manager, and RStudio Connect. RStudio Team offers convenience, simplicity, and savings to organizations using R and RStudio at scale.

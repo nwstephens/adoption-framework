@@ -1,7 +1,104 @@
 ---
-title: Integration
 output: 
   html_document:
     includes:
       in_header: "favicon.html"
 ---
+
+<br>
+
+### Integrate R with your systems
+
+The R programming language and its packages provide an interface into some of the most popular systems used today. Using R, individual data scientists can create data products and orchestrate complex workflows. The RStudio toolchain combines professional and open source tooling that helps your teams succeed.
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### Use R with Spark
+
+The `sparklyr` package provides an interface into Apache Spark.
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### Use R with TensorFlow and Keras
+
+The `TensorFlow` and `Keras` packages let data scientists build models.
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### Use R with Databases
+
+Access and manipulate databases.
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### Use R with Python
+
+User R with Python.
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### Build workflows and architectures [Pro]
+
+Build workflows and architectures.
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### Scale R with containerization [Pro]
+
+Scale R with Docker and Kubernetes.
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
+
+### Use R within your CI/DC pipelines [Pro]
+
+Use R with continuous integration and continuous deployments.
+
+<br>
+<center>
+<a href="https://www.rstudio.com/">
+<img src="img/learn-more.png" alt="Learn More" style="width:200px;">
+</a>
+</center>
+<br>
