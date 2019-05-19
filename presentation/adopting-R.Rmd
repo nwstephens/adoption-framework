@@ -1,0 +1,60 @@
+---
+title: "Adopting R in Production"
+author: "Nathan Stephens"
+date: "May 19, 2019"
+output: ioslides_presentation
+---
+
+## Problem
+
+Where do people go for answers to these questions?
+
+* Can R be used in production?
+* What are the best ways to use R with my systems?
+* How do I get started?
+
+## RStudio Problem
+
+The information is spread across blogs, websites, support articles, reference docs, and webinars.
+
+* How do we organize this information?
+* Where can people access it?
+
+## Solution
+
+We need to:
+
+* Define a mental model
+* Make the mental model discoverable.
+* Use the model to point to existing resources
+
+## What does it mean to run R in production?
+
+Several things have to happen for an organization to run R in production:
+
+1. Adopt R
+2. Build institutional knowledge on how to administer R
+3. Use R with other production systems
+
+## Mental Model
+
+Three phases of adoption:
+
+* Legitimacy
+* Competencies
+* Integration
+
+## Open source and pro attributes
+
+Phase | Open Source | Pro
+-------------|-------------|-------------
+Legitimacy | * Obtain approval <br> * Allocate resources | * Commercial license
+Competencies | * Administer R <br> * Manage R packages <br> * Join the community  | * Support <br> * Partners <br> * Install and configure professional products
+Integration | * Software interfaces | * Pro features <br> * Scaling <br> * Security <br>
+
+## References
+
+* [Google Doc](https://docs.google.com/document/d/1ystVVL2nraEuT5vICJgZ5_ILWAzEFyEKzwYhvow9c9g/edit?usp=sharing)
+* [Wireframe](https://colorado.rstudio.com/rsc/adoption-framework/getting-started.html)
+* [Github](https://github.com/nwstephens/adoption-framework)
+* [Webinars](https://resources.rstudio.com/administration-of-pro-products)

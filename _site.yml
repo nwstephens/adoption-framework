@@ -16,6 +16,4 @@ navbar:
       href: https://github.com/nwstephens/adoption-framework
 output:
   html_document:
-    include:
-      after_body: footer.html
     css: modest.css
